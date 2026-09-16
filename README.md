@@ -69,6 +69,3 @@ The dashboards support management decisions by helping users:
 - Compare profitability across regions
 - Monitor financial performance over time
 - Explore business results interactively through filters and drill-downs
-
-## Project Context
-Portfolio synthesis of business intelligence coursework completed for ISM 4930: Data Visualization at the University of South Florida.
