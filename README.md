@@ -95,7 +95,7 @@ The dashboards support management decisions by helping users:
 ## Project Files
 
 - [Source Dataset](data/Exercise%20File%20202501.xlsx)
-- [Tableau Exercise 2 Workbook](tableau/Tableau2AT.twbx)
-- [Tableau Exercise 3 Workbook](tableau/Tableau3AT.twbx)
-- [Power BI Exercise 1](power-bi/PowerBI1AT.pbix)
-- [Power BI Exercise 2](power-bi/PowerBI2AT.pbix)
+- [Tableau Sales Performance Workbook](tableau/Tableau2AT.twbx)
+- [Advanced Tableau Business Analysis](tableau/Tableau3AT.twbx)
+- [Power BI Sales Performance Dashboard](power-bi/PowerBI1AT.pbix)
+- [Power BI Advanced Interactive Analysis](power-bi/PowerBI2AT.pbix)
