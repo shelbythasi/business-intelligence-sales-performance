@@ -61,6 +61,28 @@ Power BI was used to:
 - Compare revenue, cost, and net revenue over time
 - Create dynamic financial views and interactive reporting experiences
 
+## Dashboard Highlights
+
+### Power BI Sales Performance Dashboard
+![Power BI Sales Performance Dashboard](images/power-bi-dashboard.png)
+
+This dashboard consolidates revenue, cost, and net revenue analysis across geographic areas, products, suppliers, and countries to support high-level performance monitoring.
+
+### Dynamic Financial Analysis
+![Dynamic Financial Analysis](images/dynamic-financial-analysis.png)
+
+A dynamic measure selector allows users to switch between Cost, Gross Revenue, and Net Revenue for country-level performance analysis.
+
+### Tableau Dynamic Financial Map
+![Tableau Dynamic Financial Map](images/tableau-dynamic-financial-map.png)
+
+An interactive Tableau parameter enables users to analyze selected financial measures across countries through a geographic view.
+
+### Product Performance Analysis
+![Tableau Product Performance](images/tableau-product-performance.png)
+
+Product-level analysis compares average gross revenue and average quantity to identify differences in product performance and sales volume.
+
 ## Business Value
 The dashboards support management decisions by helping users:
 
@@ -69,3 +91,11 @@ The dashboards support management decisions by helping users:
 - Compare profitability across regions
 - Monitor financial performance over time
 - Explore business results interactively through filters and drill-downs
+
+## Project Files
+
+- [Source Dataset](data/Exercise%20File%20202501.xlsx)
+- [Tableau Exercise 2 Workbook](tableau/Tableau2AT.twbx)
+- [Tableau Exercise 3 Workbook](tableau/Tableau3AT.twbx)
+- [Power BI Exercise 1](power-bi/PowerBI1AT.pbix)
+- [Power BI Exercise 2](power-bi/PowerBI2AT.pbix)
